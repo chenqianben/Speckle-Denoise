@@ -1,10 +1,10 @@
 # Speckle-Denoise
-Deep Learning Approaches on Medical Ultrasound Image Denoising in Pytorch and Tensorflow
+Deep Learning Approaches on Medical Ultrasound Image Denoising in Pytorch and Tensorflow.
 
 # Objectives
 Medical ultrasound is becoming today one of the most accessible diagnostic imaging modalities. A high image quality is the basis on which clinical interpretation can be made with sufficient confidence. However, medical ultrasound images suffer typically from speckle effect due to interference in the image formation.
 
-we propose to study deep learning approaches to perform ultrasound speckle reduction. We will explore several different methods including end-to-end learning and hybrid methods. We would also like to push the understanding and the interpretation of the network behavior through a deeper analysis of network structures and activation functions
+we propose to study deep learning approaches to perform ultrasound speckle reduction. We will explore several different methods including end-to-end learning and hybrid methods. We would also like to push the understanding and the interpretation of the network behavior through a deeper analysis of network structures and activation functions.
 
 # State-of-the-art algorithms
 ### Models
@@ -57,4 +57,4 @@ we propose to study deep learning approaches to perform ultrasound speckle reduc
    
 # Notes
 - Codes in Juppyter Notebook are for educative demonstration. 
-- You can also consult the **[Project Report](https://github.com/chenqianben/Automatic-MRI-Degeneration-Detection/blob/master/Project%20Paper.pdf)** for detailed information. 
+- You can also consult the **[Project Report](https://github.com/chenqianben/Speckle-Denoise/blob/master/Project%20Report%20-%20FR.pdf)** for more information. 
