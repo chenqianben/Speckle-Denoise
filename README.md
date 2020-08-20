@@ -16,7 +16,7 @@ we propose to study deep learning approaches to perform ultrasound speckle reduc
    *  Toward Convolutional Blind Denoising of Real Photographs (Arxiv2018), Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang.
  * MWCNN [[PDF]](https://arxiv.org/pdf/1805.07071.pdf) [[WEB]](https://github.com/lpj0/MWCNN)
    *  Multi-level wavelet-CNN for image restoration (2018), Liu, Pengju, et al.
- * KPN [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3761.pdf)
+ * KPN [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3761.pdf) [[WEB]](https://people.eecs.berkeley.edu/~bmild/kpn/index.html)
    * Burst Denoising With Kernel Prediction Networks (CVPR2018), Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll.
    
 ### Generalization Capacity
