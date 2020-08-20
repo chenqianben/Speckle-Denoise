@@ -26,6 +26,13 @@ We propose to study deep learning approaches to perform ultrasound speckle reduc
    *  Robust and interpretable blind image denoising via bias-free convolutional neural networks, Mohan, Sreyas, et al.
    
 # Codes
+## In Pytorch
+### Models
+- [model_baseline.py] U-net
+- [model_gdfn.py] global dynamic filter network
+- [model_kpn.py] kernel predicion network
+
+## In Tensorflow
 ### Models
 - [model_baseline.py] U-net
 - [model_gdfn2.py] global dynamic filter network
@@ -34,23 +41,23 @@ We propose to study deep learning approaches to perform ultrasound speckle reduc
 - [model_kpn.py] kernel predicion network
 - [model_mwkpn.py] multi-level wavelet kernel prediction network
 
-### train
+### Train
 - [train_blind_noise.ipynb] train models without noise estimation
 - [train_burst_blind_noise.ipynb] train burst models without noise estimation
 - [train_burst_with_noise_est.ipynb] train burst models with noise estimation
 - [train_noise_est.ipynb] train noise estimation models
 - [train_ultrasound_data.ipynb] train ultrasound data with one of the above models
 
-### test
+### Test
 - [test_ultrasound_data.ipynb] train ultrasound data with one of the above models
 
-### eval
+### Eval
 - [eval_gdfn.ipynb] evaluate global dfn filters
 - [eval_kpn.ipynb] evaluate kpn/local dfn filters
 - [eval_mwcnn.ipynb] evaluate multi-level wavelet effects on U-net
 - [eval_transfer_learning.ipynb] evaluate transfer learning effects
 
-### method
+### Method
 - [dwt.py] discrete wavelet transform implementation in tensorflow2
 - [hybrid_method.ipynb] hybride methode implementation
 
