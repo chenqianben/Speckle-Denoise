@@ -4,7 +4,7 @@ Deep Learning Approaches on Medical Ultrasound Image Denoising in Pytorch and Te
 # Objectives
 Medical ultrasound is becoming today one of the most accessible diagnostic imaging modalities. A high image quality is the basis on which clinical interpretation can be made with sufficient confidence. However, medical ultrasound images suffer typically from speckle effect due to interference in the image formation.
 
-we propose to study deep learning approaches to perform ultrasound speckle reduction. We will explore several different methods including end-to-end learning and hybrid methods. We would also like to push the understanding and the interpretation of the network behavior through a deeper analysis of network structures and activation functions.
+We propose to study deep learning approaches to perform ultrasound speckle reduction. We will explore several different methods including end-to-end learning and hybrid methods. We would also like to push the understanding and the interpretation of the network behavior through a deeper analysis of network structures and activation functions.
 
 # State-of-the-art algorithms
 ### Models
