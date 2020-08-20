@@ -8,9 +8,9 @@ we propose to study deep learning approaches to perform ultrasound speckle reduc
 
 # State-of-the-art algorithms
 ### Models
- * DnCNN [[PDF]](https://arxiv.org/pdf/1608.03981v1.pdf) [[Web]](https://github.com/cszn/DnCNN) 
+ * DnCNN [[PDF]](https://arxiv.org/pdf/1608.03981v1.pdf) [[WEB]](https://github.com/cszn/DnCNN) 
    * Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP2017), Zhang et al.
- * FFDNet [[PDF]](https://arxiv.org/pdf/1710.04026.pdf) [[Web]](https://github.com/cszn/FFDNet) 
+ * FFDNet [[PDF]](https://arxiv.org/pdf/1710.04026.pdf) [[WEB]](https://github.com/cszn/FFDNet) 
    * FFDNet: Toward a fast and flexible solution for CNN-based image denoising, Zhang et al.
  * CBDNet [[PDF]](https://arxiv.org/pdf/1807.04686.pdf) [[WEB]](https://github.com/GuoShi28/CBDNet)
    *  Toward Convolutional Blind Denoising of Real Photographs (Arxiv2018), Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang.
